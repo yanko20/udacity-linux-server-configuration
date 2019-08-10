@@ -12,13 +12,13 @@ http://3.221.150.123
 
 ### Software installed
 
-finger
-apache2
-Flask
-postgresql
-sqlite3
-python-pip
-libapache2-mod-wsgi
+* finger
+* apache2
+* Flask
+* postgresql
+* sqlite3 
+* python-pip
+* libapache2-mod-wsgi
 
 
 ### Configurations
@@ -33,3 +33,5 @@ libapache2-mod-wsgi
 
 
 ### Third-party resources
+
+* Amazon Lightsail
