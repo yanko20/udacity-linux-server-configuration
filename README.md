@@ -26,6 +26,6 @@ libapache2-mod-wsgi
 * Updated and upgraded Ubuntu 
 * Added ```grader``` user
 * Secured user login
-  * ```ssh grader@3.221.150.123 -i .ssh/udacity -p 2200```
+  * ```ssh grader@3.221.150.123 -i .ssh/udacity -p 2200 ```
 
 ### Third-party resources
