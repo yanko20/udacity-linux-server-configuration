@@ -27,7 +27,7 @@ http://3.221.150.123
 * Added ```grader``` user
 * Secured user login
   * ```ssh grader@3.221.150.123 -i .ssh/udacity -p 2200 ```
-* app: ```/var/www/FlaskApp/FlaskApp```
+* app dir: ```/var/www/FlaskApp/FlaskApp```
 * wsgi file: ```/var/www/FlaskApp/flaskapp.wsgi```
 * config file: ```/etc/apache2/sites-available/FlaskApp.conf```
 
