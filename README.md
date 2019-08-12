@@ -30,8 +30,8 @@ http://3.221.150.123
 * wsgi file: ```/var/www/FlaskApp/flaskapp.wsgi```
 * config file: ```/etc/apache2/sites-available/FlaskApp.conf```
 * app database (sqlite): ```/var/www/FlaskApp/FlaskApp/bikeparts.db```
-* to populate databse: ```sudo python /var/www/FlaskApp/FlaskApp/populate_database.py```
-* to run app lolcally: ```sudo python /var/www/FlaskApp/FlaskApp/application.py```
+* populate databse: ```sudo python /var/www/FlaskApp/FlaskApp/populate_database.py```
+* run app locally: ```sudo python /var/www/FlaskApp/FlaskApp/application.py```
 
 ### Third-party resources
 
